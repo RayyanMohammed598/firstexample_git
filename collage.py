@@ -1,5 +1,8 @@
 r=rayyan
-id=22
+id= int(input("please entre the number))
 print(r)
-if id<50:
-    print(id "id is larger")
+for i in id:
+print(i)
+if i<50:
+              print(i "idis larger")
+
