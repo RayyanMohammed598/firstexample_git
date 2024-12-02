@@ -7,4 +7,4 @@ if i<50:
               print(i "idis larger")
 print("hello rayyan")
 b="bablu"
-
+r="rayyan is a hero"
